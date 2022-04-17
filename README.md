@@ -9,7 +9,7 @@ A big thanks to [xingrz](https://github.com/xingrz) for the docker image.
 * `git submodule update`
 * `cd pico-sdk && git submodule update --init`
 
-## How to make and build new project?
+## How to make and build a new project?
 
 1. Go to `src`
 2. Create a new directory with new project name (`blink` project has been included already)
