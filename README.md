@@ -1,6 +1,6 @@
 # PICOLORA
 
-This project will be used for implementation of Lora Library EBYTE E22 Module. Currently, the project contains build script that uses docker to build any Raspberry PI PICO project -> you don't need to set up RPi PICO build env on your linux machine, just use `build.sh` to build the project in docker.
+This project will be used for implementation of Lora EBYTE E22 library. Currently, the project contains build script that uses docker to build any Raspberry PI PICO project -> you don't need to set up RPi PICO build env on your linux machine, just use `build.sh` to build the project in docker.
 A big thanks to [xingrz](https://github.com/xingrz) for the docker image.
 
 ## How to use this?
